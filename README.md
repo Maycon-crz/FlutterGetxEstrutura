@@ -9,14 +9,13 @@ Este é um exemplo de estrutura para um projeto em flutter Getx com:
 * Exemplo de Como usar o Getx para desacoplar o código e aumentar o nível;
 
 ## Getting Started
+- [Lab: Escreva seu primeiro aplicativo Flutter - oficial](https://flutter.dev/docs/get-started/codelab)
+- [Amostras úteis de Flutter - oficial](https://flutter.dev/docs/cookbook)
+- [Documentação online](https://flutter.dev/docs)
 
-This project is a starting point for a Flutter application.
+- [Plataforma online que utilizo para codar: FlutLab.io](https://flutlab.io)
+- [Documentação do Getx](https://pub.dev/packages/get)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src='cfp2_1.PNG'>
+<img src='cfp2_2.PNG'>
+<img src='cfp2_3.PNG'>
