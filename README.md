@@ -16,6 +16,6 @@ Este é um exemplo de estrutura para um projeto em flutter Getx com:
 - [Plataforma online que utilizo para codar: FlutLab.io](https://flutlab.io)
 - [Documentação do Getx](https://pub.dev/packages/get)
 
-<img src='cfp2_1.PNG'>
-<img src='cfp2_2.PNG'>
-<img src='cfp2_3.PNG'>
+<img src='img1.PNG'>
+<img src='img2.PNG'>
+<img src='img3.PNG'>
