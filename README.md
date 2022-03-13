@@ -1,6 +1,12 @@
-# fluttergetxbindings2
+# Flutter Getx Estrutura Completa De Base Para Projetos Médios/Grandes
 
-A new Flutter project.
+Este é um exemplo de estrutura para um projeto em flutter Getx com:
+* Alta coesão baixo acoplamento;
+* Exemplo de Bindings;
+* Exemplo de Controllers;
+* Exemplo de contador com Getx;
+* Exemplo de Buscador com listagem dinâmica de resultados;
+* Exemplo de Como usar o Getx para desacoplar o código e aumentar o nível;
 
 ## Getting Started
 
