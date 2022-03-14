@@ -40,7 +40,7 @@ class BuscadorController extends GetxController {
         count = 0;
         break;
       case "More":
-        if (count <= allUsers.length) {
+        if (count < allUsers.length) {
           count = count + 5;
           foundUsers.clear();
           for (var i = 0; i < count; i++) {
